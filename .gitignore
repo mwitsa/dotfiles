@@ -1,0 +1,7 @@
+# Ignore all .png and .jpg files
+*.png
+*.jpg
+
+# default background image
+!.config/backgrounds/1.jpg
+
